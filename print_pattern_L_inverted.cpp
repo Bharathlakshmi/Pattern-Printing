@@ -1,6 +1,14 @@
 #include<iostream>
 using namespace std;
+/*
+n=5;
+* * * * *
+* * * *
+* * *
+* *
+*
 
+*/
 main()
 {
     int n,p;
